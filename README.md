@@ -1,3 +1,5 @@
+# Greetings, traveler
+
 ## Academic Training
 
 - M.Sc. (present), Statistics – University of São Paulo, Brazil

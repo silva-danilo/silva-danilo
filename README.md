@@ -1,11 +1,12 @@
-# Danilo V. Silva
-
 ## Academic Training
 
-- Ph.D. (1995), Biostatistics – University of North Carolina at Chapel Hill
-- M.Sc. (1987), Statistics – University of São Paulo, Brazil
-- B.Sc. (1985), Statistics – University of São Paulo, Brazil
+- M.Sc. (present), Statistics – University of São Paulo, Brazil
+- B.Sc. (2020), Statistics – University of São Paulo, Brazil
 
+
+## Professional experience
+
+- Instructor – Department of Statistics, University of São Paulo, Brazil (2017 - present)
 
 
 

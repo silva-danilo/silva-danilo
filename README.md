@@ -3,6 +3,8 @@
 ## Academic Training
 
 - M.Sc. (2023), Statistics - University of São Paulo, Brazil
+- M.Sc. (2023), Statistics - University of São Paulo, Brazil
+- B.Sc. (2020), Statistics - University of São Paulo, Brazil
 - B.Sc. (2020), Statistics - University of São Paulo, Brazil
 
 

@@ -2,7 +2,7 @@
 
 ## Academic Training
 
-- M.Sc. (2023), Statistics - University of São Paulo, Brazil
+- M.Sc. (present), Statistics - University of São Paulo, Brazil
 - B.Sc. (2020), Statistics - University of São Paulo, Brazil
 
 
@@ -21,7 +21,7 @@
 
 
 
-## Publications
+## Teaching and Publications
 Please click on this link to access my curriculum vitae.
 
 

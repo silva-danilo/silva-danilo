@@ -2,7 +2,7 @@
 
 ## Academic Training
 
-- M.Sc. (present), Statistics – University of São Paulo, Brazil
+- M.Sc. (2023), Statistics – University of São Paulo, Brazil
 - B.Sc. (2020), Statistics – University of São Paulo, Brazil
 
 
@@ -10,6 +10,19 @@
 
 - Instructor – Department of Statistics, University of São Paulo, Brazil (2017 - present)
 
+
+## Fields of Research
+
+- Computational Statistics
+- Generalized Linear Models
+- Generalized Estimating Equations
+- Diagnostic Procedures
+- Generalized Additive Models
+
+
+
+## Publications
+Please click on this link to access my curriculum vitae.
 
 
 ## 🤝🏻 To reach me 

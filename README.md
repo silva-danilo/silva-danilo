@@ -6,7 +6,7 @@
 - B.Sc. (2020), Statistics - University of São Paulo, Brazil
 
 
-## Professional experience
+## Professional Experience
 
 - Instructor - Department of Statistics, University of São Paulo, Brazil (2017 - present)
 

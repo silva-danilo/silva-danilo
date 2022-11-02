@@ -20,14 +20,5 @@
 - Generalized Additive Models
 
 
-
 ## Teaching and Publications
-Please click on this link to access my curriculum vitae.
-
-
-## 🤝🏻 To reach me 
-
-<p align="center">
-<a href="https://www.linkedin.com/in/felipefonsecarocha/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Felipe%20Rocha-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:me@felipefrocha.systems"><img alt="Email" src="https://img.shields.io/badge/Email-me@felipefrocha.systems-blue?style=flat-square&logo=gmail"></a>
-</p>
+Please click on this [link](http://lattes.cnpq.br/9017498164523856) to access my curriculum vitae.

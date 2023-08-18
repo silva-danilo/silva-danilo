@@ -21,4 +21,4 @@
 - Diagnostic Procedures
 
 ## Publications
-Please check my [curriculum vitae](http://lattes.cnpq.br/9017498164523856), [google scholar](https://scholar.google.com.br/citations?hl=pt-BR&user=PCG_qHIAAAAJ) and [scopus](https://www.scopus.com/authid/detail.uri?authorId=57214188243) profile.
+Please check my [curriculum vitae](http://lattes.cnpq.br/9017498164523856) and [google scholar](https://scholar.google.com.br/citations?hl=pt-BR&user=PCG_qHIAAAAJ) profiles.

@@ -14,11 +14,9 @@
 
 ## Fields of research
 
-- Statistical Computing
-- Generalized Linear Models
-- Generalized Estimating Equations
-- Generalized Additive Models
-- Diagnostic Procedures
+- Generalized additive models
+
 
 ## Publications
+
 Please check my [curriculum vitae](http://lattes.cnpq.br/9017498164523856) and [google scholar](https://scholar.google.com.br/citations?hl=pt-BR&user=PCG_qHIAAAAJ) profiles.

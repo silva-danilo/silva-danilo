@@ -12,7 +12,7 @@
 - Instructor - Department of Statistics, University of São Paulo, Brazil (2017 - present)
 
 
-## Field of research
+## Field research
 
 - Regression models
 

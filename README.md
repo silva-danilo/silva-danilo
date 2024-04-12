@@ -12,9 +12,9 @@
 - Instructor - Department of Statistics, University of São Paulo, Brazil (2017 - present)
 
 
-## Fields of research
+## Field of research
 
-- Generalized additive models
+- Regression models
 
 
 ## Publications

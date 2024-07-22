@@ -2,11 +2,11 @@
 
 ## Field research
 
-- Regression models
+- regression models
 
 ## Games
 
-Please check my [steam](https://steamcommunity.com/id/silva-danilo/) profile.
+Explore my [steam](https://steamcommunity.com/id/silva-danilo/) page.
 
 ## Publications
 

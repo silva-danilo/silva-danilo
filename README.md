@@ -8,6 +8,7 @@
 
 Check my [curriculum vitae](http://lattes.cnpq.br/9017498164523856) and [google scholar](https://scholar.google.com.br/citations?hl=en&user=PCG_qHIAAAAJ) profiles.
 
-## PoE2
+## PoE2 builds
 
-Check my current [build](https://poe2.ninja/profile/character/1qojaloxh2ac1/danvah-5208/danvah).
+- sc 0.2: [poison shield-charge pathfinder](https://poe2.ninja/profile/character/1qojaloxh2ac1/danvah-5208/danvah) (reference [Uberj4ger](https://www.reddit.com/r/PathOfExile2/comments/1k87f8r/poe2_020_poison_shield_charge_pathfinder_t4_xesht))
+- sc 0.1: [poison concoction pathfinder](https://poe2.ninja/profile/character/6v39ktkyuzti/danvah-5208/danvs) (reference [Zizaran](https://maxroll.gg/poe2/build-guides/poisonous-concoction-pathfinder-build-guide))

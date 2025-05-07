@@ -10,4 +10,4 @@ Check my [curriculum vitae](http://lattes.cnpq.br/9017498164523856) and [google 
 
 ## PoE2
 
-Check my [trade](https://www.pathofexile.com/trade2/search/poe2/Dawn%20of%20the%20Hunt/WzeWDyZSm) page.
+Check my current [build](https://poe2.ninja/profile/character/1qojaloxh2ac1/danvah-5208/danvah).

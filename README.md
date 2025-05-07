@@ -20,6 +20,6 @@ Check my [curriculum vitae](http://lattes.cnpq.br/9017498164523856) and [google 
 
 - **sc 0.1** – [poisonous concoction pathfinder](https://poe2.ninja/profile/character/6v39ktkyuzti/danvah-5208/danvs) (Zizaran, [2025](https://maxroll.gg/poe2/build-guides/poisonous-concoction-pathfinder-build-guide))
 
-- **0.1 sc** – [Poisonous Concoction Pathfinder](https://poe2.ninja/profile/character/6v39ktkyuzti/danvah-5208/danvs). Reference: [Zizaran (2025)](https://maxroll.gg/poe2/build-guides/poisonous-concoction-pathfinder-build-guide)
+- **0.1 sc** – [Poisonous Concoction Pathfinder](https://poe2.ninja/profile/character/6v39ktkyuzti/danvah-5208/danvs). Reference: Zizaran([2025](https://maxroll.gg/poe2/build-guides/poisonous-concoction-pathfinder-build-guide)).
 
 

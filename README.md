@@ -11,7 +11,7 @@ Check my [curriculum vitae](http://lattes.cnpq.br/9017498164523856) and [google 
 ## PoE2 builds
 
 - **sc 0.2** – [poison shield-charge pathfinder](https://poe2.ninja/profile/character/1qojaloxh2ac1/danvah-5208/danvah)  
-  _Reference: [Uberj4ger](https://www.reddit.com/r/PathOfExile2/comments/1k87f8r/poe2_020_poison_shield_charge_pathfinder_t4_xesht)_
+  _Reference: [Uberj4ger (2025)](https://www.reddit.com/r/PathOfExile2/comments/1k87f8r/poe2_020_poison_shield_charge_pathfinder_t4_xesht)_
 
 - **sc 0.1** – [poisonous concoction pathfinder](https://poe2.ninja/profile/character/6v39ktkyuzti/danvah-5208/danvs)  
   _Reference: [Zizaran](https://maxroll.gg/poe2/build-guides/poisonous-concoction-pathfinder-build-guide)_
@@ -20,6 +20,6 @@ Check my [curriculum vitae](http://lattes.cnpq.br/9017498164523856) and [google 
 
 - **sc 0.1** – [poisonous concoction pathfinder](https://poe2.ninja/profile/character/6v39ktkyuzti/danvah-5208/danvs) (Zizaran, [2025](https://maxroll.gg/poe2/build-guides/poisonous-concoction-pathfinder-build-guide))
 
-- **SC 0.1** – [Poisonous Concoction Pathfinder](https://poe2.ninja/profile/character/6v39ktkyuzti/danvah-5208/danvs). Reference: [Zizaran (2025)](https://maxroll.gg/poe2/build-guides/poisonous-concoction-pathfinder-build-guide)
+- **0.1 sc** – [Poisonous Concoction Pathfinder](https://poe2.ninja/profile/character/6v39ktkyuzti/danvah-5208/danvs). Reference: [Zizaran (2025)](https://maxroll.gg/poe2/build-guides/poisonous-concoction-pathfinder-build-guide)
 
 

@@ -14,4 +14,4 @@ Check my [curriculum vitae](http://lattes.cnpq.br/9017498164523856) and [google 
 
 - [0.1 sc] [Poison concoction pathfinder](https://poe2.ninja/profile/character/6v39ktkyuzti/danvah-5208/danvs). Based on [Zizaran (2025)](https://www.youtube.com/watch?v=yDfLEkb3EHI&t=1s)
 
-- [Poison concoction pathfinder](https://poe2.ninja/profile/character/6v39ktkyuzti/danvah-5208/danvs) [0.1 sc, (Zizaran, 2025)(https://www.youtube.com/watch?v=yDfLEkb3EHI&t=1s)]
+- [Poison concoction pathfinder](https://poe2.ninja/profile/character/6v39ktkyuzti/danvah-5208/danvs) [0.1 sc, [(Zizaran, 2025)](https://www.youtube.com/watch?v=yDfLEkb3EHI&t=1s)]

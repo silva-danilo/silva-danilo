@@ -10,6 +10,6 @@ Check my [curriculum vitae](http://lattes.cnpq.br/9017498164523856) and [google 
 
 ## PoE2 build history
 
-- [0.2 sc] [Poison shield-charge pathfinder](https://poe2.ninja/profile/character/1qojaloxh2ac1/danvah-5208/danvah) based on [Uberj4ger (2025)](https://www.reddit.com/r/PathOfExile2/comments/1k87f8r/poe2_020_poison_shield_charge_pathfinder_t4_xesht)
+- [0.2 sc] [Poison shield-charge pathfinder](https://poe.ninja/poe2/profile/danvah-5208/character/danvah) based on [Uberj4ger (2025)](https://www.reddit.com/r/PathOfExile2/comments/1k87f8r/poe2_020_poison_shield_charge_pathfinder_t4_xesht)
 
-- [0.1 sc] [Poison concoction pathfinder](https://poe2.ninja/profile/character/6v39ktkyuzti/danvah-5208/danvs) based on [Zizaran (2025)](https://www.youtube.com/watch?v=yDfLEkb3EHI&t=1s)
+- [0.1 sc] [Poison concoction pathfinder](https://poe.ninja/poe2/profile/danvah-5208/character/danvs) based on [Zizaran (2025)](https://www.youtube.com/watch?v=yDfLEkb3EHI&t=1s)

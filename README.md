@@ -2,6 +2,7 @@
 
 ## Field research
 
+- Statistical modelling
 - Generalized additive (mixed) models
 
 ## Publications

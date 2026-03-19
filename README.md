@@ -2,7 +2,7 @@
 
 ## Field research
 
-- Generalized additive (mixed) models
+- Generalized additive models
 
 ## Publications
 

@@ -8,7 +8,7 @@
 
 Check my [google scholar](https://scholar.google.com.br/citations?hl=en&user=PCG_qHIAAAAJ) and [curriculum vitae](http://lattes.cnpq.br/9017498164523856) profiles.
 
-## Hobby (true hardcore optimization)
+## Hobby (actual hardcore optimization)
 
 - [0.4-sc] [Poisonburst pathfinder ci](https://poe.ninja/poe2/profile/danvah-5208/character/danvahiv) based on [Lily (2025)](https://www.youtube.com/watch?v=VAsuBFcUJSo)
 

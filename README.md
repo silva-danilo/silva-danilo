@@ -2,7 +2,7 @@
 
 ## Field research
 
-- Smoothing (fully parametric != semiparametric) regression
+- Smoothing (not semiparametric) regression
 
 ## Publications
 

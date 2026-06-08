@@ -10,6 +10,8 @@ Check my [google scholar](https://scholar.google.com.br/citations?hl=en&user=PCG
 
 ## Hobby (actual hardcore optimization)
 
+- [0.5-sc] [Poisonburst pathfinder ci](https://poe.ninja/poe2/profile/danvah-5208/character/danvahv) improved last version
+  
 - [0.4-sc] [Poisonburst pathfinder ci](https://poe.ninja/poe2/profile/danvah-5208/character/danvahiv) based on [Lily (2025)](https://www.youtube.com/watch?v=VAsuBFcUJSo)
 
 - [0.3-sc] [Poisonburst pathfinder deflection](https://poe.ninja/poe2/profile/danvah-5208/character/danvahiii) based on [Fatbelly (2025)](https://www.youtube.com/watch?v=s0OdcZP5hEU)
